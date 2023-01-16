@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YqxLzx&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YqxLzx&show_icons=true&theme=night#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 - 👋 Hi, I’m @YqxLzx
 - 👀 I‘m interested in procedural and suspense novels
 - 🏫 I graduated from Jinan University with a bachelor's degree
