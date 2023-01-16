@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YqxLzx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YqxLzx&theme=tokyonight&show_icons=true)
 - 👋 Hi, I’m @YqxLzx
 - 👀 I‘m interested in procedural and suspense novels
 - 🏫 I graduated from Jinan University with a bachelor's degree
