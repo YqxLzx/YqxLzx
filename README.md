@@ -1,11 +1,3 @@
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YqxLzx&show_icons=true&theme=night#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-- 👋 Hi, I’m @YqxLzx
-- 👀 I‘m interested in procedural and suspense novels
-- 🏫 I graduated from Jinan University with a bachelor's degree
-- 🌱 I’m currently learning English for IELTS and program data structure 
-- 💞️ I’m looking to collaborate on ... Sorry, no considering here 
-- 📫 How to reach me ...Shout to the sky, Watermelon Superman, I'm coming 
 - <h1 align="center">Hi 👋, I'm YqxLzx</h1>
 <h3 align="center">A little known man who eats on time frontend developer, I study English every day for the IELTS test, and my plan for the past year is to study data structures and algorithms.In the end every great idea has a humble beginning, doesn't it?</h3>
 
@@ -49,6 +41,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yqx&show_icons=true&locale=en&layout=compact" alt="yqx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yqx&show_icons=true&locale=en" alt="yqx" /></p>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YqxLzx&show_icons=true&theme=night#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yqx&" alt="yqx" /></p>
 
