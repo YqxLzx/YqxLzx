@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yqxlzx" alt="yqxlzx" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ll" target="blank"><img src="https://img.shields.io/twitter/follow/ll?logo=twitter&style=for-the-badge" alt="ll" /></a> </p>
-
 - 🔭 I’m currently working on [Compile and Data structure](https://github.com/YqxLzx/DataStructureClang)
 
 - 🌱 I’m currently learning **design philosophy of React,Data structure and Compile**
@@ -28,7 +26,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/colindoooo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="colindoooo0" height="30" width="40" /></a>
-<a href="https://twitter.com/ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ll" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/lee zixing dooooo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lee zixing dooooo0" height="30" width="40" /></a>
 <a href="https://instagram.com/colindooo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="colindooo0" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/colindoooo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="colindoooo0" height="30" width="40" /></a>
