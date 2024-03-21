@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm YqxLzx</h1>
-<h3 align="center">A little known man who eats on time frontend developer, I study English every day for the IELTS test, and my plan for the past year is to study data structures and algorithms.In the end every great idea has a humble beginning, doesn't it?</h3>
+<h3 align="center">
+  💻  WEB DEVELOPER
+  </h3>
+   <h3 align="center">
+  👨  26 YEARS OLD
+       </h3>
+      <h3 align="center">
+  🏠  LIVE IN SHANGHAI
+    <h3 align="center">
+  💗  FAN OF FAKER AND T1
+        </h3>
+  <h3 align="center">
+  📖  LEARNING IELTS AND COMPILER
+  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yqxlzx&label=Profile%20views&color=3ca2e2&style=flat" alt="yqxlzx" /> </p>
 
